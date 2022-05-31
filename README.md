@@ -1,6 +1,6 @@
 # .recode
 
-This repository contains an example of user development environment configuration. See the [Recode CLI documentation](https://github.com/recode-sh/cli#development-environments-configuration) to learn more about the Recode configuration format.
+This repository contains an example of user configuration. See the [Recode CLI documentation](https://github.com/recode-sh/cli#development-environments-configuration) to learn more about the Recode configuration format.
 
 As you can see in this example, you are free to create as many folders and files that you want in your user configuration repository. The sole requirement is the `dev_env.Dockerfile` file.
 
