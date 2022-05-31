@@ -1,10 +1,10 @@
 # .recode
 
-This repository contains an example of user's development environment configuration. See the [Recode CLI documentation](https://github.com/recode-sh/cli#development-environments-configuration) to learn more about the Recode configuration format.
+This repository contains an example of user development environment configuration. See the [Recode CLI documentation](https://github.com/recode-sh/cli#development-environments-configuration) to learn more about the Recode configuration format.
 
 As you can see in this example, you are free to create as many folders and files that you want in your user configuration repository. The sole requirement is the `dev_env.Dockerfile` file.
 
-<ins>**This repository is used as default for the users that don't have created their configuration**</ins>. (*That's why all your projects have `zsh` set as the default shell*).
+<ins>**This repository is used as default for the users that don't have created their own configuration**</ins>. (*That's why all your unconfigured projects will have `zsh` set as default shell*).
 
 ## Table of contents
 - [The future](#the-future)
